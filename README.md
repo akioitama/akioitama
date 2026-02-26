@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Agentic AI systems, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).<br>🌱 I’m diving deeper into advanced machine learning, model optimization, and AI system design.<br>👯 I’m looking to collaborate on AI research projects, intelligent agents, and LLM-based applications.<br>🤔 I’m looking for help with scaling AI systems and improving real-world deployment strategies.<br>💬 Ask me about Machine Learning, C++, Python, and building AI-powered applications.<br>📫 How to reach me: itama013gmail.com<br><br>😄 Pronouns: He/Him<br> Fun fact: I enjoy turning complex AI concepts into working, real-world systems.
+🔭 I’m currently working on Agentic AI systems, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).<br>🌱 I’m diving deeper into advanced machine learning, model optimization, and AI system design.<br>👯 I’m looking to collaborate on AI research projects, intelligent agents, and LLM-based applications.<br>🤔 I’m looking for help with scaling AI systems and improving real-world deployment strategies.<br>💬 Ask me about Machine Learning, C++, Python, and building AI-powered applications.<br>📫 How to reach me: itama013gmail.com<br><br>😄 Pronouns: He/Him<br> Fun fact: I enjoy turning complex AI concepts into working, real-world systems...
 
 
 ## 🌐 Socials:
